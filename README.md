@@ -109,4 +109,8 @@ The results show that BERT significantly outperforms the classical TF-IDF approa
 ---
 
 ## Results
-![BERT result](bert-result.png)
+### BERT
+![BERT result](bert-result.png) 
+
+### TF-IDF + Logistic Regression
+![TFIDF](tfidf-result.png)
