@@ -109,4 +109,4 @@ The results show that BERT significantly outperforms the classical TF-IDF approa
 ---
 
 ## Results
-![BERT result](BERT result.png)
+![BERT result](bert-result.png)
